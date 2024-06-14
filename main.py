@@ -10,7 +10,7 @@ html = f"""
 <!DOCTYPE html>
 <html>
     <head>
-        <title> OSCAR </title>
+        <title>HHHHHHHHHHHHHHHHHHHH</title>
         <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
     </head>
     <body>
